@@ -1,0 +1,50 @@
+.fila {
+    display: flex;
+    width: 100%;
+}
+.verMasContainer {
+    height: 208px;
+    width: 100%;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.botonVerMas {
+    border: none;
+    background-color: transparent;
+    margin: auto;
+    text-decoration: none;
+    top: 104px;
+}
+.espacioCardB {
+    width: 5%;
+}
+.h1TextMas {
+    margin: 0;
+    color: #FFFFFF;
+    font-size: 22px;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    text-decoration: none;
+}
+.flechaTextMas {
+    color: #FFFFFF;
+    font-size: 7rem;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.btnVerMas {
+    height: 48px;
+    width: 142px;
+    background-color: #F63E00;
+    border-radius: 5px;
+    border: none;
+}
+.aVerMas {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+}

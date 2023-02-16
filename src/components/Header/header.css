@@ -1,0 +1,46 @@
+.menuBurgerBackground {
+    background-color: #252C41;
+    color: #FFFFFF;
+    height: 80px;
+}
+.botonBurger {
+    border: none;
+    background-color: transparent;
+}
+.botonBurgerIcon {
+    font-size: 2rem;
+}
+.botonX {
+    background: transparent;
+    border: none;
+    margin-left: 95%;
+    font-size: 22px;
+}
+.botonXIcon {
+    color: #FFFFFF;
+}
+.botonSuscripcion {
+    width: 100px;
+    height: 32px;
+    background: #F63E00;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+    text-decoration: none;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.nav {
+    Height: 80px;
+}
+.logoBurger {
+    height: 100px;
+    width: 100px;
+}
+.logo {
+    width: 160px;
+    margin-top: 40%;
+}

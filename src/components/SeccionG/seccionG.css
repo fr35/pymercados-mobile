@@ -1,0 +1,25 @@
+.avatarContainer {
+    width: 100%;
+    height: 128px;
+}
+.fotoTeam {
+    width: 95px;
+    height: 95px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.h2Avatar {
+    margin-bottom: 0;
+    font-size: 20px;
+}
+.pAvatar {
+    margin-bottom: 2px;
+}
+.logoLinkedin {
+    color: #252C41;
+}
+
